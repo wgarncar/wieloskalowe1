@@ -8,3 +8,13 @@ C:\Users\garnusz\source\repos\projekt2\projekt2\obj\Debug\projekt2.csproj.Genera
 C:\Users\garnusz\source\repos\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
 C:\Users\garnusz\source\repos\projekt2\projekt2\obj\Debug\projekt2.exe
 C:\Users\garnusz\source\repos\projekt2\projekt2\obj\Debug\projekt2.pdb
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\bin\Debug\projekt2.exe
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\bin\Debug\projekt2.pdb
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.Form1.resources
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.Properties.Resources.resources
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.csproj.GenerateResource.cache
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.exe
+C:\Users\garnusz\Documents\GitHub\wieloskalowe1\projekt2\obj\Debug\projekt2.pdb

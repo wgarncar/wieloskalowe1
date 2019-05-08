@@ -279,7 +279,7 @@ namespace projekt2
         private void button6_Click(object sender, EventArgs e)
         {
             int tmp = 0;
-            if (!Int32.TryParse(textBox3.Text, out tmp))
+            if (!Int32.TryParse(textBox3.Text, out tmp) || tmp <= 0)
             {
                 tmp = 1000;
             }
