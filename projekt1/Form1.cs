@@ -44,7 +44,7 @@ namespace projekt1
 
             timer1 = new Timer();
             timer1.Tick += new EventHandler(timer1_Tick);
-            timer1.Interval = 10;
+            timer1.Interval = 1;
         }
 
         private void calculate()
@@ -113,20 +113,18 @@ namespace projekt1
                 states.Clear();
                 y = 0;
                 
-                /*timer1 = new Timer();
-                timer1.Tick += new EventHandler(timer1_Tick);
-                timer1.Interval = 10;*/
             }
             start = false;
 
-            if (!Int32.TryParse(textBox2.Text, out rule))
+            if (!Int32.TryParse(textBox2.Text, out rule) || rule<0)
             {
                 rule = 90;
             }
+            
 
             binaryRule = Convert.ToString(rule, 2);
 
-            if(!Int32.TryParse(textBox1.Text, out count))
+            if(!Int32.TryParse(textBox1.Text, out count) || count < 0)
             {
                 count = pictureBox1.Width;
             }
