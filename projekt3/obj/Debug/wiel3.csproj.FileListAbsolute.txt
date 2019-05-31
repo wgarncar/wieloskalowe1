@@ -1,0 +1,10 @@
+C:\Users\wgarncar\source\repos\wiel3\wiel3\bin\Debug\wiel3.exe.config
+C:\Users\wgarncar\source\repos\wiel3\wiel3\bin\Debug\wiel3.exe
+C:\Users\wgarncar\source\repos\wiel3\wiel3\bin\Debug\wiel3.pdb
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.csprojAssemblyReference.cache
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.Form1.resources
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.Properties.Resources.resources
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.csproj.GenerateResource.cache
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.csproj.CoreCompileInputs.cache
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.exe
+C:\Users\wgarncar\source\repos\wiel3\wiel3\obj\Debug\wiel3.pdb
